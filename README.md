@@ -60,8 +60,6 @@ This project is ideal for:
 
 ## 📄 License
 
-Specify your license here (e.g. MIT, GPL, etc.).  
-If you don’t have one yet, consider adding a license to let others know how they can use or contribute to your project.
 
 ## 🤝 Contributing
 
@@ -70,6 +68,10 @@ Feel free to contribute! You can help by:
 - Improving or adding documentation / guides  
 - Reporting issues or giving feedback  
 
-## ✨ Acknowledgments
+## ✨ Authors
 
-Mention anyone who helped you, provided inspiration, or contributed in any way.
+- Luigi Mateus
+- Bruno Bispo
+- Renan Carvalho
+- João Filipe
+
